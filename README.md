@@ -4,5 +4,4 @@
 ### Participants:
 - [Vivian] (https://github.com/vivianchoucy)
 - [Chengtzu] (https://github.com/Chengtzu)
-- [Inespai](https://github.com/inespai)
-
+- [Inespai] (https://github.com/inespai)
